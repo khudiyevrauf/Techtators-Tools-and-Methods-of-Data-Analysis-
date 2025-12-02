@@ -5,16 +5,27 @@ This project analyzes the relationship between city population and earthquake fr
 
 ## Folder Structure
 Datasets/
+
 Cleaned Datasets/
+
 Final_Data.csv # Final dataset with cleaned data for analysis
+
 Merged_DS.csv # Merged dataset of earthquake and population data
+
 year_stats.csv # Yearly earthquake stats (min, max magnitude, frequency)
+
 Original Datasets/
+
 phivolcs_earthquake_data.csv # Original earthquake data 
+
 phl_population-2020_2025.csv # Original population data (CSV format)
+
 phl_population-2020_2025.xlsx # Original population data (Excel format)
+
 Python Codes/
+
 Techtators_Cleaning.ipynb # Data cleaning and preprocessing script
+
 Techtators_Corr_Normalization.ipynb # Correlation and normalization analysis
 
 ## Code Explanation
