@@ -15,8 +15,11 @@ Techtators_Corr_Normalization.ipynb # Correlation and normalization analysis
 
 CSV and XLSX files which are hidden with gitignore
 
-requirements.txt  # List of dependencies for the project
-README.md    # Project documentation (this file)
+requirements.txt # List of dependencies for the project
+
+README.md # Project documentation (this file)
+
+.gitignore # with codes ignoring csv and xlsx
 
 ## Code Explanation
 - **Techtators_Cleaning.ipynb**:
